@@ -1,3 +1,4 @@
+# ignore visual studio files
 .vs*
 *.vcx*
 *.sln
